@@ -1,3 +1,8 @@
+pandas
 requests
 beautifulsoup4
-pandas
+urllib3
+certifi
+transformers
+torch
+pdfminer.six
